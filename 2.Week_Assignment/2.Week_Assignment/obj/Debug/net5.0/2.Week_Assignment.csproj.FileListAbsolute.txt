@@ -1,0 +1,5 @@
+C:\Users\fatma keskin\source\repos\2.Week_Assignment\2.Week_Assignment\obj\Debug\net5.0\2.Week_Assignment.csproj.AssemblyReference.cache
+C:\Users\fatma keskin\source\repos\2.Week_Assignment\2.Week_Assignment\obj\Debug\net5.0\2.Week_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatma keskin\source\repos\2.Week_Assignment\2.Week_Assignment\obj\Debug\net5.0\2.Week_Assignment.AssemblyInfoInputs.cache
+C:\Users\fatma keskin\source\repos\2.Week_Assignment\2.Week_Assignment\obj\Debug\net5.0\2.Week_Assignment.AssemblyInfo.cs
+C:\Users\fatma keskin\source\repos\2.Week_Assignment\2.Week_Assignment\obj\Debug\net5.0\2.Week_Assignment.csproj.CoreCompileInputs.cache
